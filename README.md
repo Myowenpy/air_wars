@@ -1,5 +1,5 @@
 # air_wars
-陈壮壮161403116
+陈壮壮161403116硬件一班
 以下对每一个py文件做一个叙述：
 rot-example.py：学习pygame模块
 shmup-1.py:控制飞机
